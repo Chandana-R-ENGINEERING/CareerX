@@ -1,0 +1,6 @@
+{
+  "name": "CareerX - AI Career Discovery & Placement Platform",
+  "description": "All-in-one AI-powered platform for students to discover jobs, master aptitude, solve coding challenges, ace mock interviews, analyze resumes, and accelerate placement readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
